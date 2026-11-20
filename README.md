@@ -1,16 +1,15 @@
-## Hi there 👋
+### Merhaba, ben RBA-3000 👋
 
-<!--
-**RBA-3000/RBA-3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15 yaşında bir teknoloji meraklısı ve geliştirici adayıyım. İşletim sistemleri, sanallaştırma teknolojileri ve açık kaynak projelerle ilgileniyorum.
 
-Here are some ideas to get you started:
+#### 🚀 Öne Çıkan Projem
+* **[VMware-a-MacOS-Kurulumu](https://github.com)** — VMware Workstation üzerinde adım adım macOS kurulumu ve AMD işlemci yapılandırma rehberi.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ İlgilendiğim Alanlar ve Araçlar
+![VMware]
+![macOS]
+![Windows]
+![GitHub]
+
+
+
