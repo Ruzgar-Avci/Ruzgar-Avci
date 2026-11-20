@@ -1,4 +1,4 @@
-### Merhaba, ben RüzgarCodes 👋
+### Merhaba, ben RüzgarDev 👋
 
 15 yaşında bir teknoloji meraklısı ve geliştirici adayıyım. İşletim sistemleri, sanallaştırma teknolojileri ve açık kaynak projelerle ilgileniyorum.
 
